@@ -1,0 +1,15 @@
+{
+  "appId": "com.writeai.smartwriter",
+  "appName": "WriteAI – Smart AI Writer",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": false
+  },
+  "plugins": {
+    "AdMob": {
+      "appId": "ca-app-pub-YOUR_PRODUCTION_APP_ID_HERE~0000000000"
+    }
+  }
+}

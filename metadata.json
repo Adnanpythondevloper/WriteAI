@@ -1,0 +1,6 @@
+{
+  "name": "WriteAI – Smart AI Writer",
+  "description": "Write better emails, posts, descriptions and content with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
